@@ -15,7 +15,7 @@ I built a **Random Forest classifier** by using different data I found in Kaggle
 
 
 
-EXTRA: This is a good project as well:
+[EXTRA] This is a good project as well:
 
 https://www.kaggle.com/code/kingabzpro/finding-the-bad-password
 
